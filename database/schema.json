@@ -1,0 +1,20 @@
+
+{
+    "id":  {
+        "desc": "the id of the student",
+        "type": "number"
+    },
+    "name" : {
+        "desc": "the full name of the student",
+        "type": "string"
+    },
+    "stars": {
+        "desc":"the rating of the student from 1 to 5 going by 0.5 steps",
+        "type" : "float"
+    },
+    "photo": {
+        "desc":"the directory in files where the photo is stored",
+        "type":"string"
+    }
+      
+}
